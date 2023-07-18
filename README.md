@@ -6,6 +6,8 @@
 * **Dirkx Jan** - *Developer (Backend)*
 * **Sulejmani Edin** - *System Administrator*
 
+Application for movies. The purpose of this website is to allow individuals within a group to input their movie preferences, and based on their inputs, the site will generate a list of movie suggestions sourced from TMDB (The Movie Database).
+
 ##
 ##
 ##
